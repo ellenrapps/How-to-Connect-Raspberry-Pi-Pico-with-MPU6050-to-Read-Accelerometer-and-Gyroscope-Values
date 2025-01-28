@@ -6,3 +6,11 @@ Picture: https://github.com/ellenrapps/Road-to-Autonomous-Drone-Using-Raspberry-
 
 Video: https://www.youtube.com/watch?v=NkBL_VxJ77g
 
+
+Support my work via:
+
+GitHub Sponsors: https://github.com/sponsors/ellenrapps
+
+Bitcoin donation: 3GokAX3um2nZVVU2Z22BfzmqYobvs9nnnW
+
+
